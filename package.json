@@ -22,7 +22,7 @@
     "date-fns": "^2.30.0",
     "loglevel": "^1.8.1",
     "moment": "^2.29.4",
-    "next": "^16.2.1",
+    "next": "^14.2.35",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-portal": "^4.2.2",
